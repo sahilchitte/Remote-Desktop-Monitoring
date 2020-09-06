@@ -1,0 +1,10 @@
+C:\Users\Sahil\source\repos\server-remote\server-remote\bin\Debug\server-remote.exe.config
+C:\Users\Sahil\source\repos\server-remote\server-remote\bin\Debug\server-remote.exe
+C:\Users\Sahil\source\repos\server-remote\server-remote\bin\Debug\server-remote.pdb
+C:\Users\Sahil\source\repos\server-remote\server-remote\obj\Debug\server_remote.Form1.resources
+C:\Users\Sahil\source\repos\server-remote\server-remote\obj\Debug\server_remote.Properties.Resources.resources
+C:\Users\Sahil\source\repos\server-remote\server-remote\obj\Debug\server-remote.csproj.GenerateResource.cache
+C:\Users\Sahil\source\repos\server-remote\server-remote\obj\Debug\server-remote.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\source\repos\server-remote\server-remote\obj\Debug\server-remote.exe
+C:\Users\Sahil\source\repos\server-remote\server-remote\obj\Debug\server-remote.pdb
+C:\Users\Sahil\source\repos\server-remote\server-remote\obj\Debug\server_remote.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\Sahil\source\repos\client-remote desktop\client-remote desktop\bin\Debug\client-remote desktop.exe.config
+C:\Users\Sahil\source\repos\client-remote desktop\client-remote desktop\bin\Debug\client-remote desktop.exe
+C:\Users\Sahil\source\repos\client-remote desktop\client-remote desktop\bin\Debug\client-remote desktop.pdb
+C:\Users\Sahil\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client-remote desktop.csprojAssemblyReference.cache
+C:\Users\Sahil\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client_remote_desktop.Form1.resources
+C:\Users\Sahil\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client_remote_desktop.Properties.Resources.resources
+C:\Users\Sahil\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client-remote desktop.csproj.GenerateResource.cache
+C:\Users\Sahil\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client-remote desktop.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client-remote desktop.exe
+C:\Users\Sahil\source\repos\client-remote desktop\client-remote desktop\obj\Debug\client-remote desktop.pdb
